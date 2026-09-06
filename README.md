@@ -1,5 +1,7 @@
 # GitHub Insights
 
+**Live demo:** https://github-insights-ptk.netlify.app
+
 Look up any public GitHub profile and see their activity at a glance — repo stats,
 language breakdown, a 12-week commit trend, a recent activity feed, and an
 AI-generated plain-English summary of their coding focus.
