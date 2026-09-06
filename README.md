@@ -1,6 +1,6 @@
 # GitHub Insights
 
-**Live demo:** https://github-insights-ptk.netlify.app
+**[Live Demo](https://github-insights-ptk.netlify.app)**
 
 Look up any public GitHub profile and see their activity at a glance — repo stats,
 language breakdown, a 12-week commit trend, a recent activity feed, and an
@@ -49,6 +49,12 @@ Two ways to run it locally:
    set in `netlify.toml`)
 3. In Netlify's site settings → Environment variables, add `GEMINI_API_KEY`
 4. Deploy — functions deploy automatically alongside the site
+
+## Screenshots
+
+<img width="738" height="806" alt="Screenshot 2026-09-07 at 12 30 36 AM" src="https://github.com/user-attachments/assets/5250c6d8-d407-4f58-8eae-5c70940b0e00" />
+
+<img width="738" height="746" alt="Screenshot 2026-09-07 at 12 30 56 AM" src="https://github.com/user-attachments/assets/b9f16b6d-720a-45af-b979-a6b56338ee27" />
 
 ## Notes on GitHub API rate limits
 
