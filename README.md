@@ -52,9 +52,10 @@ Two ways to run it locally:
 
 ## Screenshots
 
-<img width="738" height="806" alt="Screenshot 2026-09-07 at 12 30 36 AM" src="https://github.com/user-attachments/assets/5250c6d8-d407-4f58-8eae-5c70940b0e00" />
+<img width="748" height="817" alt="Screenshot 2026-10-06 at 12 51 03 AM" src="https://github.com/user-attachments/assets/c14356ee-4fbe-4df4-98f9-4ff7700cc81b" />
 
-<img width="738" height="746" alt="Screenshot 2026-09-07 at 12 30 56 AM" src="https://github.com/user-attachments/assets/b9f16b6d-720a-45af-b979-a6b56338ee27" />
+<img width="748" height="673" alt="Screenshot 2026-10-06 at 12 51 14 AM" src="https://github.com/user-attachments/assets/e294a966-91e0-4a62-9a09-991075e067f5" />
+
 
 ## Notes on GitHub API rate limits
 
