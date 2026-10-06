@@ -28,6 +28,8 @@ for a portfolio demo, but worth knowing if traffic ever spikes.
 ## Local development
 
 ```bash
+git clone https://github.com/ptkhaing/github-insights
+cd github-insights
 npm install
 cp .env.example .env.local   # then add your real GEMINI_API_KEY
 ```
