@@ -61,3 +61,5 @@ Two ways to run it locally:
 
 Unauthenticated requests are capped at 60/hour per IP by GitHub. That's fine for
 personal/demo use but worth knowing if you're testing repeatedly in a short window.
+
+## License MIT — see [LICENSE](LICENSE) for details.
